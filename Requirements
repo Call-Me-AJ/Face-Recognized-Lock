@@ -1,0 +1,6 @@
+## pyttsx3                                                          -> pip install pyttsx3
+## os                                                               -> Inbuilt Package
+## cv2                                                              -> pip install opencv-contrib-python
+## numpy                                                            -> pip install numpy
+## time                                                             -> Inbuilt Package
+## face_recognition (supported on python 3.6 and lesser version)    -> pip install face-recognition
